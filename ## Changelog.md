@@ -1,4 +1,9 @@
-## v1.2
+## v1.3 (next)
++ Rewritten hud rendering to use then new PenaltyDisplayManager from BTWRSL (jeffyjamzhd)
++ Added translation keys for the gloom penalties (jeffyjamzhd)
+
+
++ ## v1.2
 + Added configuration options with Mod Menu for selecting which dimensions are affected by gloom.
 + Added mod icon & mod description to display properly
 + Fixed the player being able to get gloom effects while in spectator mode.
