@@ -1,4 +1,5 @@
 ## v1.3 (next)
++ Added BTWR SL as dependency (jeffyjamzhd)
 + Rewritten hud rendering to use then new PenaltyDisplayManager from BTWRSL (jeffyjamzhd)
 + Added translation keys for the gloom penalties (jeffyjamzhd)
 
